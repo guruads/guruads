@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthick</h1>
+<h1 align="center">Hi 👋, I'm Guru Shankar</h1>
 <h3 align="center">Aspiring Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthick-11-ai&label=Profile%20views&color=0e75b6&style=flat" alt="karthick-11-ai" /> </p>
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📫 How to reach me **karthick14mm@gamil.com**
+- 📫 How to reach me **guru292004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
